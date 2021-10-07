@@ -1,0 +1,11 @@
+
+
+MAIN GOAL
+This is an overview of the project.
+in this Project we are trying to create a dummy website for tour and travel.
+It might seem as the very common website but there is a special thing about this website.
+This website can only be accessed by those users who are more than 60 years of age and wants to travel.
+They will be provided the travel in cheaper costs than the usual websites.
+Of course there will be lots of security breaches and frauds in this website, so our main goal is to find those breaches and try to solve those.
+One of the techniques described by our team is using infrared facial recognition system to determine the rough age of the person 
+and only a single account can be created by using only a valid PAN card.
